@@ -4,9 +4,12 @@
 
 ## POPCORN Ontology
 This section lists the different types of entities, attributes and relationships used to annotate the dataset.
-![alt text](https://github.com/Todaime/popcorn-dataset/main/images/popcorn_entities.jpg)
-![alt text](https://github.com/Todaime/popcorn-dataset/main/images/popcorn_attributes.jpg)
-![alt text](https://github.com/Todaime/popcorn-dataset/main/images/popcorn_relations.jpg)
+
+<img width="1000px" src="images/popcorn_entities.png" alt="image_name png" />
+
+<img width="1000px" src="images/popcorn_attributes.png" alt="image_name png" />
+
+<img width="1000px" src="images/popcorn_relations.png" alt="image_name png" />
 
 # Citation
 
