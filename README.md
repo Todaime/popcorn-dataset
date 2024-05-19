@@ -12,13 +12,13 @@ The annotated texts are stored inside the corpus folder of this repository and s
                 "id": "id of the textual entity",
                 "mentions": [{
                               "value": "textual value of the mention"
-                              "begin": "offset of the begin of the mention in the text as integer",
+                              "start": "offset of the begin of the mention in the text as integer",
                               "end": "offset of the end of the mention in the text as integer"
                              },
                              ...
                             ],
                 "type": "entity type as a string",
-                "formatted_value": "formatted value if the entity is an attribute"
+                "value": "if the entity is an attribute with a formatted value"
                },
                ...
               ],
@@ -36,6 +36,8 @@ This section lists the different types of entities, attributes and relations use
 <img width="1000px" src="images/popcorn_attributes.png" alt="image_name png" />
 
 <img width="1000px" src="images/popcorn_relations.png" alt="image_name png" />
+
+In the provided annotations, gender is annotated as 2 relations (Male or Female) using the same entity as subject and object.
 
 # Citation
 
