@@ -45,7 +45,7 @@ In the provided annotations, gender is annotated as 2 relations (Male or Female)
 
 <img width="1000px" src="images/relation_distribution.png" alt="image_name png" />
 
-As shown in the previous figures this dataset constitutes a good playground for testing and implementing few-shot learning solutions.
+As shown in the previous figures this dataset is imbalanced both with entities and relations. Users may choose to discard low support classes.
 
 # Benchmark
 
