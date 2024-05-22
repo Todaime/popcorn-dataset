@@ -29,7 +29,7 @@ The annotated texts are stored inside the corpus folder of this repository and s
 ```
 
 ## POPCORN Ontology
-This section lists the different types of entities, attributes and relations used to annotate the dataset.
+This section lists the different types of entities, attributes and relations used to annotate the dataset. Although the classes are displayed in such a way as to indicate a given taxonomy, only the fine-grained classes (the most indented in the table) are annotated in the dataset. The parent classes are therefore given for information only and can be re-organised according to the use-case.
 
 <img width="1000px" src="images/popcorn_entities.png" alt="image_name png" />
 
