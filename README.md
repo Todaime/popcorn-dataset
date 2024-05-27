@@ -49,6 +49,11 @@ As shown in the previous figures this dataset is imbalanced both with entities a
 
 # Benchmark
 
+| Models | Event Extraction (Macro F1)| Entity Extraction (Macro F1) | Attribute Extraction (Macro F1) | Relation Extraction (Macro F1) | Coreference Resolution (F1 : Avg MUC, B3, CEAF) |
+| ------- | --- | --- | --- | --- | --- |
+| Unified Model | 45.19 &pm; 2.07 | 68.38 &pm; 0.34 | 60.39 &pm; 2.76 | 46.49 &pm; 0.55 | TBD |
+| Boundary Smoothing Model | 44.20 &pm; 1.01 | 63.56 &pm; 0.82 | 60.67 &pm; 0.95 | N/A | N/A |
+
 # Citation
 
 # Contact
@@ -56,4 +61,4 @@ If you have any questions, please contact cedric.lopez@emvista.com
 
 # TODO
 - [ ] Upload the Unified Model implementation
-- [ ] Complete the benchmark section with paper results
+- [ ] Complete the benchmark section with coreference resolution results
