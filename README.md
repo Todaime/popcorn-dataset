@@ -55,7 +55,5 @@ As shown in the previous figures this dataset is imbalanced both with entities a
 If you have any questions, please contact cedric.lopez@emvista.com
 
 # TODO
-- [ ] Add the synthetic texts
-- [ ] Upload code to train and evaluate the unified model
+- [ ] Upload the Unified Model implementation
 - [ ] Complete the benchmark section with paper results
-- [ ] Add the prompt template used to generate synthetic texts
