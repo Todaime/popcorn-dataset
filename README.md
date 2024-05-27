@@ -54,6 +54,8 @@ As shown in the previous figures this dataset is imbalanced both with entities a
 | Unified Model | 45.19 &pm; 2.07 | 68.38 &pm; 0.34 | 60.39 &pm; 2.76 | 46.49 &pm; 0.55 | TBD |
 | Boundary Smoothing Model | 44.20 &pm; 1.01 | 63.56 &pm; 0.82 | 60.67 &pm; 0.95 | N/A | N/A |
 
+Above table list the best results of 2 architectures for POPCORN tasks.
+
 # Citation
 
 # Contact
